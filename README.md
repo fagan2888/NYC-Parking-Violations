@@ -40,3 +40,5 @@ Find the top-20 vehicles in terms of total violations. (assume that plate_id and
 For each violation code,list the average number of violations with that code issued per day on weekdays and weekend days. You may hardcode “8” as the number of weekend days and “23” as the number of weekdays in March 2016. In March 2016, the 5th, 6th, 12th, 13th, 19th, 20th, 26th, and 27th were weekend days (i.e., Sat. and Sun.).
 
 ### Task 8:
+
+List any data quality issues you have encountered in the provided datasets in a text file called data-quality-issues.txt
