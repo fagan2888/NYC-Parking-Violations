@@ -3,6 +3,8 @@ Using MapReduce and Spark to explore NYC Parking Violations
 
 ## Data:
 
+![NYC Open Data](https://github.com/gandalf1819/NYC-Parking-Violations/blob/master/nyc-open-data-logo.svg)
+
 Dataset used for this analysis is available from NYC Open Data:
 
 *Parking Violations Issued (Fiscal Year 2016)*
